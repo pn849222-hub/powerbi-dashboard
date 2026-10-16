@@ -7,7 +7,7 @@ visualizing key sales metrics from the Superstore retail dataset (2014–2017).
 
 ## 📸 Dashboard Preview
 
-![Sales Dashboard](screenshots/Screenshot 2026-03-28 220248.png)
+![Sales Dashboard](screenshots/dashboard.png)
 
 ---
 
